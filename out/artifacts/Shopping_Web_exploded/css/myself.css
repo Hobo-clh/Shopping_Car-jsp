@@ -1,0 +1,57 @@
+/*自创css*/
+/*index 导航栏start  */
+#menu {
+	width: 600px;
+	margin: 30px auto 0px;
+	height: 45px;
+	background-color: rgba(170, 143, 143, 0.5);
+	position: absolute;
+	top: 65px;
+	left: 300px;
+	border-radius: 8px;
+}
+#menu li{
+	float: left;
+	width: 92px;
+	line-height:39px;
+	text-align: center;
+	position:relative;
+	border:none;
+}
+#menu li a {
+	font-size:16px; color: #e6f8e9;
+	display:block;
+	outline:0;
+	text-decoration:none; 
+}
+#menu li:hover a {
+	color: #ff0000; /*导航栏文字颜色 */
+}
+#menu li:hover .dropdown_1column {
+	left:0px;
+	top:38px;
+}
+/* #menu li .findcar{
+
+	font-size:20px;
+	border-radius: 2px;
+	background-color: #4CAF50; Green
+	color: white;
+}
+#menu li .findcar {
+	background-color: #4CAF50; Green
+	color: white;
+} */
+/*导航栏end  */
+/* information div样式 */
+		
+
+			
+		/*end infomation  */
+		
+		/*start infCars样式 */
+	
+			/*  border: 1px solid black; 
+			 background: rgba(255, 255, 255, 0.2)*/
+			 
+		/*end infCars 样式*/

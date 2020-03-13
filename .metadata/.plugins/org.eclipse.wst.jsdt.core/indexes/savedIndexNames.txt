@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+F:\A学习文件夹\Web实验三\Shopping\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+360640458.index
+2689480433.index
+1615068799.index
+3776157223.index
+2326131517.index
+3879780139.index
+4089124390.index
+524287245.index

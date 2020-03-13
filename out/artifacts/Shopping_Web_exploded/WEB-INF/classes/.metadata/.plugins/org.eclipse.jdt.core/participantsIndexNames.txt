@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+F:\A学习文件夹\Web实验三\Shopping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1348695954.index
+\Shopping\src
+F:\A学习文件夹\Web实验三\Shopping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3875676416.index
+\SessionTest\src
+F:\A学习文件夹\Web实验三\Shopping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3809530712.index
+\Shopping\src
